@@ -1,0 +1,9 @@
+# Exported TroopWebHost data - contains personal information about Scouts and families
+exports/
+*.csv
+*.xml
+*.zip
+# Browser profile - holds TroopWebHost login/session cookies
+.browser-profile/
+__pycache__/
+.DS_Store
