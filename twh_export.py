@@ -30,6 +30,9 @@ from playwright.sync_api import sync_playwright
 ROOT = "https://www.troopwebhost.org/"
 DEFAULT_TROOP = "Troop420Bothell"
 LOGIN_TIMEOUT_S = 300
+# Named report bundles. volunteer-points feeds the Troop 420 Adult Volunteer Points tracker
+# (troop420-volunteer-points): positions -> post credit, event leaders -> event-lead credit.
+PRESETS = {"volunteer-points": ["54040", "53104"]}
 
 
 class SessionExpired(Exception):
@@ -49,7 +52,7 @@ def report_url(menu_id: str) -> str:
 def _fetch(page, menu_id: str):
     # max_redirects=0: an unauthenticated request 302s to the TroopWebHost home
     # page, which would otherwise look like a 200 HTML page.
-    resp = page.request.get(report_url(menu_id), max_redirects=0, fail_on_status_code=False)
+    resp = page.request.get(report_url(menu_id), max_redirects=0, fail_on_status_code=False, timeout=180_000)  # big exports (e.g. 45935) exceed 30s
     # Exports start with a UTF-8 BOM; strip it so the first header is clean.
     return resp.status, resp.headers.get("location", ""), resp.body().decode("utf-8-sig", errors="replace")
 
@@ -115,11 +118,14 @@ def main(argv=None):
     here = Path(__file__).resolve().parent
     ap = argparse.ArgumentParser(description="Export TroopWebHost reports as CSV (read-only).")
     ap.add_argument("menu_ids", nargs="*", default=["46093"], help="Menu_Item_ID from the 'Open in Excel' link")
+    ap.add_argument("--preset", choices=sorted(PRESETS), help="named bundle of report IDs, e.g. volunteer-points")
     ap.add_argument("--login", action="store_true", help="open a window and wait for you to log in")
     ap.add_argument("--troop", default=DEFAULT_TROOP, help="troop slug in the site URL")
     ap.add_argument("--out", default=str(here / "exports"))
     ap.add_argument("--profile", default=str(here / ".browser-profile"))
     a = ap.parse_args(argv)
+    if a.preset:
+        a.menu_ids = PRESETS[a.preset] + [m for m in a.menu_ids if m != "46093" and m not in PRESETS[a.preset]]
     try:
         export_reports(a.menu_ids, a.out, a.troop, a.profile, login=a.login)
     except SessionExpired as e:
