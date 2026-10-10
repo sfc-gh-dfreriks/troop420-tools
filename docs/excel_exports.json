@@ -1,0 +1,1056 @@
+[
+ {
+  "menu_item_id": "45974",
+  "page": "FormReport.aspx",
+  "menu_path": "Administration > Security Reports > Menu Security Report",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46072",
+  "page": "FormReport.aspx",
+  "menu_path": "Administration > Security Reports > Role Task Report",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46074",
+  "page": "FormReport.aspx",
+  "menu_path": "Administration > Security Reports > Task Menu Items Report",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46073",
+  "page": "FormReport.aspx",
+  "menu_path": "Administration > Security Reports > Task Role Report",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "53188",
+  "page": "FormReportMultiSection.aspx",
+  "menu_path": "Administration > Security Reports > User Activity Report",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "45973",
+  "page": "FormReport.aspx",
+  "menu_path": "Administration > Security Reports > User Permissions Report",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "45975",
+  "page": "FormReport.aspx",
+  "menu_path": "Administration > Security Reports > User Role Menu Report",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46091",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Advancement Reports by Patrol > Eagle Merit Badge Status By Patrol",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46090",
+  "page": "FormReportMultiSection.aspx",
+  "menu_path": "Advancement > Advancement Reports by Patrol > Eagle Rank Requirements By Patrol",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46089",
+  "page": "FormReportMultiSection.aspx",
+  "menu_path": "Advancement > Advancement Reports by Patrol > First Class Outdoor Requirements By Patrol",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46088",
+  "page": "FormReportMultiSection.aspx",
+  "menu_path": "Advancement > Advancement Reports by Patrol > First Class Requirements By Patrol",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46085",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Advancement Reports by Patrol > Rank Status By Patrol",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46087",
+  "page": "FormReportMultiSection.aspx",
+  "menu_path": "Advancement > Advancement Reports by Patrol > Second Class Requirements By Patrol",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46086",
+  "page": "FormReportMultiSection.aspx",
+  "menu_path": "Advancement > Advancement Reports by Patrol > Tenderfoot Requirements By Patrol",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46057",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Advancement Status Reports > Eagle Roll Call",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "56428",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Advancement Status Reports > Merit Badge Counts By Scout",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "52388",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Advancement Status Reports > Merit Badge History By Scout By Badge Name",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46045",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Advancement Status Reports > Merit Badge History By Scout By Date Earned",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "52218",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Advancement Status Reports > Merit Badges In Progress By Badge",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "55502",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Advancement Status Reports > Merit Badges In Progress By Counselor",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "52217",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Advancement Status Reports > Merit Badges In Progress By Scout",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46044",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Advancement Status Reports > Rank Advancement History By Scout",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46042",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Advancement Status Reports > Rank Status by Age of Scout",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46043",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Advancement Status Reports > Rank Status by Date of Current Rank",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46033",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Advancement Status Reports > Scouts Ready For SM Conference or Board Of Review",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "55741",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Advancement Status Reports > Sign Off Requests",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "55384",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Maintain Advancement > Export Rank Requirement Status To Excel",
+  "formats": [
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "51192",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Maintain Advancement > Export Rank Requirements Earned To Excel",
+  "formats": [
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "51745",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > National Outdoor Awards Reports > Adventure Segment",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "51742",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > National Outdoor Awards Reports > Aquatics Segment",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "51740",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > National Outdoor Awards Reports > Camping Segment",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "51743",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > National Outdoor Awards Reports > Conservation Segment",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "51741",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > National Outdoor Awards Reports > Hiking Segment",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "51744",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > National Outdoor Awards Reports > Riding Segment",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "51771",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > National Outdoor Awards Reports > World Conservation Award Report",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46053",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Order of the Arrow Reports > Order of the Arrow Advancement Dates",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "53249",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Order of the Arrow Reports > Order of the Arrow Roster",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46050",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Requirement Reports > Camping Merit Badge Camping Nights",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46039",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Requirement Reports > Eagle Merit Badge Status By Scout",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46040",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Requirement Reports > Eagle Outdoor Merit Badge Status By Scout",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46038",
+  "page": "FormReportMultiSection.aspx",
+  "menu_path": "Advancement > Requirement Reports > Eagle Rank Requirements By Scout",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46036",
+  "page": "FormReportMultiSection.aspx",
+  "menu_path": "Advancement > Requirement Reports > First Class Requirements By Scout",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46041",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Requirement Reports > Leadership Rank Requirement Status",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46037",
+  "page": "FormReportMultiSection.aspx",
+  "menu_path": "Advancement > Requirement Reports > Outdoor Requirements Thru First Class By Scout",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "51227",
+  "page": "FormReportMultiSection.aspx",
+  "menu_path": "Advancement > Requirement Reports > Scout Requirements By Scout",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "57468",
+  "page": "FormReportMultiSection.aspx",
+  "menu_path": "Advancement > Requirement Reports > Sea Scout Requirements By Scout",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46035",
+  "page": "FormReportMultiSection.aspx",
+  "menu_path": "Advancement > Requirement Reports > Second Class Requirements By Scout",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46034",
+  "page": "FormReportMultiSection.aspx",
+  "menu_path": "Advancement > Requirement Reports > Tenderfoot Requirements By Scout",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46049",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Requirement Reports > Uncompleted Merit Badge Requirements By Requirement",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46048",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Requirement Reports > Uncompleted Merit Badge Requirements By Scout",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46047",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Requirement Reports > Uncompleted Rank Requirements By Requirement",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46046",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Requirement Reports > Uncompleted Rank Requirements By Scout",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "57464",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Requirement Reports > Uncompleted Sea Scout Requirements By Scout",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "57465",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Requirement Reports > Uncompleted Sea Scout Requirements Summary",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46055",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Requirement Reports > Uncompleted Venturing Requirements Report",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46056",
+  "page": "FormReport.aspx",
+  "menu_path": "Advancement > Requirement Reports > Uncompleted Venturing Requirements Summary",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46054",
+  "page": "FormReportMultiSection.aspx",
+  "menu_path": "Advancement > Requirement Reports > Venturing Requirements By Scout",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "59151",
+  "page": "FormReport.aspx",
+  "menu_path": "Calendar > Event Reports > Event Compliance",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46095",
+  "page": "FormReportMultiSection.aspx",
+  "menu_path": "Calendar > Event Reports > Event Participation Annual Summary",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46096",
+  "page": "FormReportMultiSection.aspx",
+  "menu_path": "Calendar > Event Reports > Event Participation Cumulative Summary",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "55472",
+  "page": "FormReport.aspx",
+  "menu_path": "Calendar > Event Reports > Most Recent Event Participation By Scout",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "57568",
+  "page": "FormReport.aspx",
+  "menu_path": "Calendar > Event Reports > Permission Needed By Event",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "57569",
+  "page": "FormReport.aspx",
+  "menu_path": "Calendar > Event Reports > Permission Needed By Scout",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "62573",
+  "page": "FormReport.aspx",
+  "menu_path": "Calendar > Event Reports > Permissions for Past Events",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "59976",
+  "page": "FormReport.aspx",
+  "menu_path": "Calendar > Event Reports > Planned Participation In Future Events",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "59836",
+  "page": "FormReport.aspx",
+  "menu_path": "Calendar > Event Reports > Shift Compliance",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46093",
+  "page": "FormReport.aspx",
+  "menu_path": "Calendar > Event Reports > Upcoming Events Details",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "51898",
+  "page": "FormReport.aspx",
+  "menu_path": "Calendar > Event Reports > Upcoming Events Summary",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "62731",
+  "page": "FormReport.aspx",
+  "menu_path": "Calendar > Export Drivers Not Attending To Excel",
+  "formats": [
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "45935",
+  "page": "FormReport.aspx",
+  "menu_path": "Calendar > Export Event Participation To Excel",
+  "formats": [
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "53104",
+  "page": "FormReport.aspx",
+  "menu_path": "Calendar > Export Events To Excel",
+  "formats": [
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "52370",
+  "page": "FormReport.aspx",
+  "menu_path": "Inventory > Inventory Report - All Items",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "52371",
+  "page": "FormReport.aspx",
+  "menu_path": "Inventory > Inventory Report - Checked Out Items",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "53747",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Export Membership Data > Export Active Roster To Excel",
+  "formats": [
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "45897",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Export Membership Data > Export Roster to Excel",
+  "formats": [
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "61096",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Medical Form Reports > Expired Medical Forms",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46024",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Medical Form Reports > Medical Form Expiration Dates - All Adults",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46023",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Medical Form Reports > Medical Form Expiration Dates - All Scouts",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46022",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Medical Form Reports > Medical Form Submission Dates - All Adults",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46021",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Medical Form Reports > Medical Form Submission Dates - All Scouts",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46025",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Training Reports > Adult Leaders Who Need SYT",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46026",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Training Reports > Expired Training By Course",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46027",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Training Reports > Expired Training By Person",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46028",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Training Reports > Required Training By Course",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46029",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Training Reports > Required Training By Person",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46013",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > Adult Directory",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "56055",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > Adult Directory - Names Only",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "57107",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > Adult Involvement",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46014",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > Adult Leader Directory",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "54040",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > Adult Leaders By Position",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46032",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > Birthday List - Adults",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46031",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > Birthday List - Scouts",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "59262",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > BSA Registrations",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46016",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > Emergency Contact List",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "55386",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > Members with Allergies or Dietary Restrictions",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "52030",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > Merit Badge Counselors By Badge",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "52029",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > Merit Badge Counselors By Name",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "52055",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > Parent Scout Cross Reference",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46017",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > Patrol Roster",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46018",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > Patrol Roster w/Contact Info",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46012",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > Scout Directory",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "51241",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > Scout Directory - Names Only",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "52344",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > Scout Directory - Names Only, By Patrol",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "57589",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > Scout Last Affirmation Dates",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "50808",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > Scout Leader Directory",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46030",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > Scout Parent Cross Reference",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "52053",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > Scout Parent Cross Reference With Contact Info",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "52054",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > Scouts By Age",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "52746",
+  "page": "FormReportMultiSection.aspx",
+  "menu_path": "Membership > Troop Directories > Shirt Sizes",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46020",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > Swim Test Results",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46015",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > Troop Contact List",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "59261",
+  "page": "FormReport.aspx",
+  "menu_path": "Membership > Troop Directories > Upcoming BSA Registration Renewals",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46004",
+  "page": "FormReport.aspx",
+  "menu_path": "Money > Export All Transactions to Excel",
+  "formats": [
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46061",
+  "page": "FormReport.aspx",
+  "menu_path": "Money > Financial Reports > Fund Balances By Fiscal Year",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46060",
+  "page": "FormReport.aspx",
+  "menu_path": "Money > Financial Reports > Fund Balances Report",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "46058",
+  "page": "FormReportMultiSection.aspx",
+  "menu_path": "Money > Financial Reports > Report Account Balances",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "52178",
+  "page": "FormReport.aspx",
+  "menu_path": "Money > Financial Reports > Scout Account Balances",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ },
+ {
+  "menu_item_id": "59943",
+  "page": "FormReport.aspx",
+  "menu_path": "Money > Financial Reports > Scout Account Balances By Gender",
+  "formats": [
+   "PDF",
+   "XLS"
+  ]
+ }
+]
