@@ -32,7 +32,7 @@ DEFAULT_TROOP = "Troop420Bothell"
 LOGIN_TIMEOUT_S = 300
 # Named report bundles. volunteer-points feeds the Troop 420 Adult Volunteer Points tracker
 # (troop420-volunteer-points): positions -> post credit, event leaders -> event-lead credit.
-PRESETS = {"volunteer-points": ["54040", "53104"]}
+PRESETS = {"volunteer-points": ["54040", "53104", "45935"]}
 
 
 class SessionExpired(Exception):

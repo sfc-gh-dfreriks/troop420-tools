@@ -21,13 +21,13 @@ pip install playwright && python3 -m playwright install chromium
 
 ```bash
 python3 twh_export.py --login 46093        # 46093 = troop calendar of events
-python3 twh_export.py --login --preset volunteer-points   # 54040 positions + 53104 events (event leaders)
+python3 twh_export.py --login --preset volunteer-points   # 54040 positions + 53104 events (leaders) + 45935 participation
 ```
 
 `--preset volunteer-points` pulls what the
 [Troop 420 Adult Volunteer Points](https://sfc-gh-dfreriks.github.io/troop420-volunteer-points/) tracker
 needs for leadership credit: **54040 Adult Leaders By Position** (Position, Adult, Start) and
-**53104 Export Events To Excel** (its `Leaders` column names who led each event). Upload both CSVs, plus the
+**53104 Export Events To Excel** (its `Leaders` column names who led each event) and **45935 Export Event Participation To Excel** (who attended each event: High Adventure, summer camp, Wood Badge, PTC). Upload all three CSVs, plus the
 Event Participation Annual Summary XLS, on the tracker's Committee → Import TroopWebHost tab.
 
 Find a report's `Menu_Item_ID` in its "Open in Excel" link:
